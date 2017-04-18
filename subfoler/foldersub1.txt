@@ -1,2 +1,1 @@
 Add the file1.txt in sub folder
-void add(double a, double b);
