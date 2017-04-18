@@ -4,8 +4,15 @@ class develop
 	int id;
 	int test1;
 };
+<<<<<<< HEAD
 struct tt1
 {
 	int id;
 	double data;
 }
+struct delta
+{
+	int id;
+}
+=======
+>>>>>>> parent of 9cf489d... commit for mixed reset
