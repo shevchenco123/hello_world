@@ -1,0 +1,6 @@
+class develop
+{
+	double time;
+	int id;
+	int test1;
+};
