@@ -4,3 +4,8 @@ class develop
 	int id;
 	int test1;
 };
+struct tt1
+{
+	int id;
+	double data;
+}
